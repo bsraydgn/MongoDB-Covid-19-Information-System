@@ -1,0 +1,182 @@
+package Islem;
+import java.util.Scanner;
+
+import com.mongodb.BasicDBObject;
+import com.mongodb.DB;
+import com.mongodb.DBCollection;
+import com.mongodb.DBCursor;
+import com.mongodb.MongoClient;
+public class Islemler {
+
+	public static void main(String[] args) {
+		MongoClient con=new MongoClient("localhost",37017);
+		DB db=con.getDB("virusBilgi");
+		DBCollection col = db.getCollection("vakaBilgi");
+		DBCursor cur =col.find();
+		DBCollection collection = db.getCollection("vakaBilgi");
+
+		Scanner input = new Scanner(System.in);
+		int secim;
+		System.out.println("Yapmak istediğiniz işlemi seçiniz:");
+		System.out.println("1-Normal Sıralama");
+		System.out.println("2-Aralıklı Sıralama");
+		secim = input.nextInt();
+		
+		// Aralıklı Seçim için değişkenleri global tanımladık
+		Scanner aralik = new Scanner(System.in);
+		final double enDusuk;
+		final double enBuyuk;
+		
+		switch(secim) {
+		case 1:
+			Scanner input2 = new Scanner(System.in);
+			int siralamaSecim;
+			System.out.println("Verileri Sıralamak İstediğiniz özelliği seçiniz:");
+			System.out.println("1-Vaka Sayısı");
+			System.out.println("2-Test Sayısı");
+			System.out.println("3-Vefat Sayısı");
+			System.out.println("4-İyileşen Sayısı");
+			siralamaSecim=input2.nextInt();
+			
+			switch(siralamaSecim) {
+			case 1:
+				System.out.println("Vaka Sayısına Göre Sıralı Veri");
+				BasicDBObject vakaSayi = new BasicDBObject("vakaSayi",1);
+				cur = col.find().sort(vakaSayi);
+				while(cur.hasNext()) {
+					System.out.println(cur.next());
+				}
+				break;
+			case 2:
+				System.out.println("Test Sayısına Göre Sıralı Veri");
+				BasicDBObject testSayi = new BasicDBObject("testSayi",1);
+				cur = col.find().sort(testSayi);
+				while(cur.hasNext()) {
+					System.out.println(cur.next());
+				}
+				break;
+			case 3:
+				System.out.println("Vefat Sayısına Göre Sıralı Veri");
+				BasicDBObject olumSayi = new BasicDBObject("olumSayi",1);
+				cur = col.find().sort(olumSayi);
+				while(cur.hasNext()) {
+					System.out.println(cur.next());
+				}
+				break;
+			case 4:
+				System.out.println("İyileşen Sayısına Göre Sıralı Veri");
+				BasicDBObject iyilesenSayi = new BasicDBObject("iyilesenSayi",1);
+				cur = col.find().sort(iyilesenSayi);
+				while(cur.hasNext()) {
+					System.out.println(cur.next());
+				}
+				break;
+			default:
+				System.out.println("Hatalı seçim,lütfen menüye göre seçim yapınız.");
+				break;
+			}
+			//case 1 in durumları		
+			break;
+		case 2:
+			Scanner input3 = new Scanner(System.in);
+			int aralikliSecim;
+			System.out.println("Üzerinde işlem yapmak İstediğiniz özelliği seçiniz:");
+			System.out.println("1-Vaka Sayısı");
+			System.out.println("2-Test Sayısı");
+			System.out.println("3-Vefat Sayısı");
+			System.out.println("4-İyileşen Sayısı");
+			aralikliSecim=input3.nextInt();
+			
+			switch(aralikliSecim) {
+			case 1:
+				BasicDBObject vakaSayi = new BasicDBObject("vakaSayi",1);
+				System.out.print("En küçük değeri giriniz:");
+				enDusuk = aralik.nextInt();
+				System.out.print("En büyük değeri giriniz:");
+				enBuyuk = aralik.nextInt();
+				BasicDBObject sorgu = new BasicDBObject();
+				sorgu.put("vakaSayi",
+						new BasicDBObject("$gte", enDusuk).append("$lte", enBuyuk));
+				
+				System.out.println(String.format(
+						"----[ %1$,.2f "
+						        + "ile %2$,.2f arasında olan vakaların vaka sayısına göre sıralı listesi",
+						enDusuk, enBuyuk));
+				
+				cur = collection.find(sorgu).sort(vakaSayi);
+				while(cur.hasNext()) {
+					System.out.println(cur.next());
+				}
+				break;
+			case 2:
+				BasicDBObject testSayi = new BasicDBObject("testSayi",1);
+				System.out.print("En küçük değeri giriniz:");
+				enDusuk = aralik.nextInt();
+				System.out.print("En büyük değeri giriniz:");
+				enBuyuk = aralik.nextInt();
+				BasicDBObject sorgu2 = new BasicDBObject();
+				sorgu2.put("testSayi",
+						new BasicDBObject("$gte", enDusuk).append("$lte", enBuyuk));
+				
+				System.out.println(String.format(
+						"----[ %1$,.2f "
+						        + "ile %2$,.2f arasında olan vakaların test sayısına göre sıralı listesi",
+						enDusuk, enBuyuk));
+				
+				cur = collection.find(sorgu2).sort(testSayi);
+				while(cur.hasNext()) {
+					System.out.println(cur.next());
+				}
+				break;
+			case 3:
+				BasicDBObject olumSayi = new BasicDBObject("olumSayi",1);
+				System.out.print("En küçük değeri giriniz:");
+				enDusuk = aralik.nextInt();
+				System.out.print("En büyük değeri giriniz:");
+				enBuyuk = aralik.nextInt();
+				BasicDBObject sorgu3 = new BasicDBObject();
+				sorgu3.put("olumSayi",
+						new BasicDBObject("$gte", enDusuk).append("$lte", enBuyuk));
+				
+				System.out.println(String.format(
+						"----[ %1$,.2f "
+						        + "ile %2$,.2f arasında olan vakaların vefat sayısına göre sıralı listesi",
+						enDusuk, enBuyuk));
+				
+				cur = collection.find(sorgu3).sort(olumSayi);
+				while(cur.hasNext()) {
+					System.out.println(cur.next());
+				}
+				break;
+			case 4:
+				BasicDBObject iyilesenSayi = new BasicDBObject("iyilesenSayi",1);
+				System.out.print("En küçük değeri giriniz:");
+				enDusuk = aralik.nextInt();
+				System.out.print("En büyük değeri giriniz:");
+				enBuyuk = aralik.nextInt();
+				BasicDBObject sorgu4 = new BasicDBObject();
+				sorgu4.put("iyilesenSayi",
+						new BasicDBObject("$gte", enDusuk).append("$lte", enBuyuk));
+				
+				System.out.println(String.format(
+						"----[ %1$,.2f "
+						        + "ile %2$,.2f arasında olan vakaların iyileşen sayısına göre sıralı listesi",
+						enDusuk, enBuyuk));
+				
+				cur = collection.find(sorgu4).sort(iyilesenSayi);
+				while(cur.hasNext()) {
+					System.out.println(cur.next());
+				}
+				break;
+				default:
+					System.out.println("Hatalı seçim,lütfen menüye göre seçim yapınız.");
+					break;
+			}
+			//case 2 nin durumları
+			break;
+		default:
+				System.out.println("Hatalı seçim,lütfen menüye göre seçim yapınız.");
+			break;
+		}
+	}
+}

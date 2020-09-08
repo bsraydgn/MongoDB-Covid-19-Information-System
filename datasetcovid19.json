@@ -1,0 +1,1890 @@
+{
+"vakaID": 1000001,
+"vakaSayi": 5187,
+"testSayi": 8371,
+"olumSayi": 92,
+"iyilesenSayi": 3757,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Berlin"
+ }
+}
+{
+"vakaID": 1000002,
+"vakaSayi": 5106,
+"testSayi": 9603,
+"olumSayi": 94,
+"iyilesenSayi": 2969,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "München (Stadt)"
+ }
+}
+{
+"vakaID": 1000003,
+"vakaSayi": 2162,
+"testSayi": 4094,
+"olumSayi": 63,
+"iyilesenSayi": 1655,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Köln"
+ }
+}
+{
+"vakaID": 1000004,
+"vakaSayi": 1752,
+"testSayi": 2300,
+"olumSayi": 88,
+"iyilesenSayi": 1102,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Rosenheim (Landkreis)"
+ }
+}
+{
+"vakaID": 1000005,
+"vakaSayi": 1693,
+"testSayi": 1800,
+"olumSayi": 62,
+"iyilesenSayi": 1194,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Aachen (Stadt- und Landkreis)"
+ }
+}
+{
+"vakaID": 1000006,
+"vakaSayi": 1663,
+"testSayi": 1812,
+"olumSayi": 43,
+"iyilesenSayi": 705,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Hannover (Landkreis)"
+ }
+}
+{
+"vakaID": 1000007,
+"vakaSayi": 1635,
+"testSayi": 1743,
+"olumSayi": 55,
+"iyilesenSayi": 1230,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Heinsberg"
+ }
+}
+{
+"vakaID": 1000008,
+"vakaSayi": 1562,
+"testSayi": 1754,
+"olumSayi": 63,
+"iyilesenSayi": 886,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Esslingen"
+ }
+}
+{
+"vakaID": 1000009,
+"vakaSayi": 1464,
+"testSayi": 1654,
+"olumSayi": 41,
+"iyilesenSayi": 363,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Ludwigsburg"
+ }
+}
+{
+"vakaID": 1000010,
+"vakaSayi": 1326,
+"testSayi": 1567,
+"olumSayi": 36,
+"iyilesenSayi": 623,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Stuttgart"
+ }
+}
+{
+"vakaID": 1000011,
+"vakaSayi": 1292,
+"testSayi": 1451,
+"olumSayi": 34,
+"iyilesenSayi": 481,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Böblingen"
+ }
+}
+{
+"vakaID": 1000012,
+"vakaSayi": 1228,
+"testSayi": 1320,
+"olumSayi": 30,
+"iyilesenSayi": 609,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Reutlingen"
+ }
+}
+{
+"vakaID": 1000013,
+"vakaSayi": 1171,
+"testSayi": 1235,
+"olumSayi": 32,
+"iyilesenSayi": 130,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Tübingen"
+ }
+}
+{
+"vakaID": 1000014,
+"vakaSayi": 1165,
+"testSayi": 1234,
+"olumSayi": 16,
+"iyilesenSayi": 613,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Ostalbkreis"
+ }
+}
+{
+"vakaID": 1000015,
+"vakaSayi": 1164,
+"testSayi": 1346,
+"olumSayi": 22,
+"iyilesenSayi": 894,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "München (Landkreis)"
+ }
+}
+{
+"vakaID": 1000016,
+"vakaSayi": 1134,
+"testSayi": 1247,
+"olumSayi": 35,
+"iyilesenSayi": 600,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Rems-Murr-Kreis"
+ }
+}
+{
+"vakaID": 1000017,
+"vakaSayi": 1051,
+"testSayi": 1238,
+"olumSayi": 28,
+"iyilesenSayi": 656,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Rhein-Sieg-Kreis"
+ }
+}
+{
+"vakaID": 1000018,
+"vakaSayi": 1053,
+"testSayi": 1190,
+"olumSayi": 81,
+"iyilesenSayi": 580,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Tirschenreuth"
+ }
+}
+{
+"vakaID": 1000019,
+"vakaSayi": 1071,
+"testSayi": 1278,
+"olumSayi": 45,
+"iyilesenSayi": 531,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Steinfurt"
+ }
+}
+{
+"vakaID": 1000020,
+"vakaSayi": 1021,
+"testSayi": 400,
+"olumSayi": 73,
+"iyilesenSayi": 444,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Saarbrücken, Regionalverband"
+ }
+}
+{
+"vakaID": 1000021,
+"vakaSayi": 964,
+"testSayi": 1101,
+"olumSayi": 47,
+"iyilesenSayi": 552,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Mettmann"
+ }
+}
+{
+"vakaID": 1000022,
+"vakaSayi": 908,
+"testSayi": 1042,
+"olumSayi": 68,
+"iyilesenSayi": 636,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Ortenaukreis"
+ }
+}
+{
+"vakaID": 1000023,
+"vakaSayi": 888,
+"testSayi": 1003,
+"olumSayi": 14,
+"iyilesenSayi": 562,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Düsseldorf"
+ }
+}
+{
+"vakaID": 1000024,
+"vakaSayi": 701,
+"testSayi": 943,
+"olumSayi": 27,
+"iyilesenSayi": 417,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Sigmaringen"
+ }
+}
+{
+"vakaID": 1000025,
+"vakaSayi": 692,
+"testSayi": 801,
+"olumSayi": 35,
+"iyilesenSayi": 304,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Wuppertal"
+ }
+}
+{
+"vakaID": 1000026,
+"vakaSayi": 5159,
+"testSayi": 6932,
+"olumSayi": 92,
+"iyilesenSayi": 0,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Berlin"
+ }
+}
+{
+"vakaID": 1000027,
+"vakaSayi": 5432,
+"testSayi": 6213,
+"olumSayi": 106,
+"iyilesenSayi": 204,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Renanya-Palatina"
+ }
+}
+{
+"vakaID": 1000028,
+"vakaSayi": 27883,
+"testSayi": 32828,
+"olumSayi": 968,
+"iyilesenSayi": 14364,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Baden-Vürtemberg"
+ }
+}
+{
+"vakaID": 1000029,
+"vakaSayi": 37407,
+"testSayi": 40828,
+"olumSayi": 1256,
+"iyilesenSayi": 26364,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Bavyera"
+ }
+}
+{
+"vakaID": 1000030,
+"vakaSayi": 4167,
+"testSayi": 5834,
+"olumSayi": 91,
+"iyilesenSayi": 1239,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Hamburg"
+ }
+}
+{
+"vakaID": 1000031,
+"vakaSayi": 2303,
+"testSayi": 3042,
+"olumSayi": 91,
+"iyilesenSayi": 1234,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Saarland"
+ }
+}
+{
+"vakaID": 1000032,
+"vakaSayi": 2221,
+"testSayi": 3120,
+"olumSayi": 66,
+"iyilesenSayi": 1302,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Brandenburg"
+ }
+}
+{
+"vakaID": 1000033,
+"vakaSayi": 1756,
+"testSayi": 2213,
+"olumSayi": 53,
+"iyilesenSayi": 1209,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Türingiya"
+ }
+}
+{
+"vakaID": 1000034,
+"vakaSayi": 585,
+"testSayi": 783,
+"olumSayi": 25,
+"iyilesenSayi": 134,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Bremen"
+ }
+}
+{
+"vakaID": 1000035,
+"vakaSayi": 651,
+"testSayi": 820,
+"olumSayi": 15,
+"iyilesenSayi": 304,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Mecklenburg-Vorpommern"
+ }
+}
+{
+"vakaID": 1000036,
+"vakaSayi": 2417,
+"testSayi": 2623,
+"olumSayi": 62,
+"iyilesenSayi": 1203,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Schleswig-Holstein"
+ }
+}
+{
+"vakaID": 1000037,
+"vakaSayi": 5432,
+"testSayi": 6743,
+"olumSayi": 106,
+"iyilesenSayi": 304,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Renanya-Palatina"
+ }
+}
+{
+"vakaID": 1000038,
+"vakaSayi": 1562,
+"testSayi": 1753,
+"olumSayi": 63,
+"iyilesenSayi": 886,
+"vakaTarih": "18.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Esslingen"
+ }
+}
+{
+"vakaID": 1000039,
+"vakaSayi": 1326,
+"testSayi": 1434,
+"olumSayi": 36,
+"iyilesenSayi": 623,
+"vakaTarih": "18.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Stuttgart"
+ }
+}
+{
+"vakaID": 1000040,
+"vakaSayi": 1292,
+"testSayi": 1452,
+"olumSayi": 34,
+"iyilesenSayi": 481,
+"vakaTarih": "18.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Böblingen"
+ }
+}
+{
+"vakaID": 1000041,
+"vakaSayi": 1134,
+"testSayi": 1263,
+"olumSayi": 35,
+"iyilesenSayi": 600,
+"vakaTarih": "18.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Rems-Murr-Kreis"
+ }
+}
+{
+"vakaID": 1000042,
+"vakaSayi": 888,
+"testSayi": 562,
+"olumSayi": 14,
+"iyilesenSayi": 304,
+"vakaTarih": "18.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Düsseldorf"
+ }
+}
+{
+"vakaID": 1000043,
+"vakaSayi": 692,
+"testSayi": 801,
+"olumSayi": 35,
+"iyilesenSayi": 304,
+"vakaTarih": "18.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Wuppertal"
+ }
+}
+{
+"vakaID": 1000044,
+"vakaSayi": 693,
+"testSayi": 802,
+"olumSayi": 14,
+"iyilesenSayi": 496,
+"vakaTarih": "18.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Dachau"
+ }
+}
+{
+"vakaID": 1000045,
+"vakaSayi": 676,
+"testSayi": 749,
+"olumSayi": 30,
+"iyilesenSayi": 391,
+"vakaTarih": "18.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Essen"
+ }
+}
+{
+"vakaID": 1000046,
+"vakaSayi": 656,
+"testSayi": 815,
+"olumSayi": 9,
+"iyilesenSayi": 398,
+"vakaTarih": "18.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Duisburg"
+ }
+}
+{
+"vakaID": 1000047,
+"vakaSayi": 633,
+"testSayi": 754,
+"olumSayi": 7,
+"iyilesenSayi": 503,
+"vakaTarih": "18.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Münster"
+ }
+}
+{
+"vakaID": 1000048,
+"vakaSayi": 627,
+"testSayi": 723,
+"olumSayi": 20,
+"iyilesenSayi": 432,
+"vakaTarih": "18.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Calw"
+ }
+}
+{
+"vakaID": 1000049,
+"vakaSayi": 621,
+"testSayi": 702,
+"olumSayi": 21,
+"iyilesenSayi": 338,
+"vakaTarih": "18.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Lippe"
+ }
+}
+{
+"vakaID": 1000050,
+"vakaSayi": 570,
+"testSayi": 602,
+"olumSayi": 4,
+"iyilesenSayi": 349,
+"vakaTarih": "18.04.2020",
+"bolge": {
+            "bolgeID": 1,
+            "kita": "Avrupa",
+            "ulke": "Almanya",
+            "sehir": "Bonn"
+ }
+}
+{
+"vakaID": 2000001,
+"vakaSayi": 853,
+"testSayi": 960,
+"olumSayi": 18,
+"iyilesenSayi": 48,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 2,
+            "kita": "Avrasya",
+            "ulke": "Türkiye",
+            "sehir": "İzmir"
+ }
+}
+{
+"vakaID": 2000002,
+"vakaSayi": 8852,
+"testSayi": 9346,
+"olumSayi": 117,
+"iyilesenSayi": 94,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 2,
+            "kita": "Avrasya",
+            "ulke": "Türkiye",
+            "sehir": "İstanbul"
+ }
+}
+{
+"vakaID": 2000003,
+"vakaSayi": 712,
+"testSayi": 810,
+"olumSayi": 7,
+"iyilesenSayi": 19,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 2,
+            "kita": "Avrasya",
+            "ulke": "Türkiye",
+            "sehir": "Ankara"
+ }
+}
+{
+"vakaID": 2000004,
+"vakaSayi": 584,
+"testSayi": 876,
+"olumSayi": 7,
+"iyilesenSayi": 14,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 2,
+            "kita": "Avrasya",
+            "ulke": "Türkiye",
+            "sehir": "Konya"
+ }
+}
+{
+"vakaID": 2000005,
+"vakaSayi": 410,
+"testSayi": 582,
+"olumSayi": 5,
+"iyilesenSayi": 7,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 2,
+            "kita": "Avrasya",
+            "ulke": "Türkiye",
+            "sehir": "Kocaeli"
+ }
+}
+{
+"vakaID": 2000006,
+"vakaSayi": 268,
+"testSayi": 456,
+"olumSayi": 5,
+"iyilesenSayi": 3,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 2,
+            "kita": "Avrasya",
+            "ulke": "Türkiye",
+            "sehir": "Isparta"
+ }
+}
+{
+"vakaID": 2000007,
+"vakaSayi": 207,
+"testSayi": 302,
+"olumSayi": 3,
+"iyilesenSayi": 1,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 2,
+            "kita": "Avrasya",
+            "ulke": "Türkiye",
+            "sehir": "Sakarya"
+ }
+}
+{
+"vakaID": 2000008,
+"vakaSayi": 197,
+"testSayi": 208,
+"olumSayi": 3,
+"iyilesenSayi": 2,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 2,
+            "kita": "Avrasya",
+            "ulke": "Türkiye",
+            "sehir": "Adana"
+ }
+}
+{
+"vakaID": 2000009,
+"vakaSayi": 135,
+"testSayi": 165,
+"olumSayi": 0,
+"iyilesenSayi": 0,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 2,
+            "kita": "Avrasya",
+            "ulke": "Türkiye",
+            "sehir": "Bursa"
+ }
+}
+{
+"vakaID": 2000010,
+"vakaSayi": 112,
+"testSayi": 136,
+"olumSayi": 0,
+"iyilesenSayi": 0,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 2,
+            "kita": "Avrasya",
+            "ulke": "Türkiye",
+            "sehir": "Samsun"
+ }
+}
+{
+"vakaID": 2000011,
+"vakaSayi": 197,
+"testSayi": 250,
+"olumSayi": 5,
+"iyilesenSayi": 0,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 2,
+            "kita": "Avrasya",
+            "ulke": "Türkiye",
+            "sehir": "Zonguldak"
+ }
+}
+{
+"vakaID": 2000012,
+"vakaSayi": 102,
+"testSayi": 168,
+"olumSayi": 2,
+"iyilesenSayi": 0,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 2,
+            "kita": "Avrasya",
+            "ulke": "Türkiye",
+            "sehir": "Antalya"
+ }
+}
+{
+"vakaID": 2000013,
+"vakaSayi": 90,
+"testSayi": 125,
+"olumSayi": 3,
+"iyilesenSayi": 0,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 2,
+            "kita": "Avrasya",
+            "ulke": "Türkiye",
+            "sehir": "Tokat"
+ }
+}
+{
+"vakaID": 2000014,
+"vakaSayi": 88,
+"testSayi": 115,
+"olumSayi": 0,
+"iyilesenSayi": 0,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 2,
+            "kita": "Avrasya",
+            "ulke": "Türkiye",
+            "sehir": "Ordu"
+ }
+}
+{
+"vakaID": 2000015,
+"vakaSayi": 87,
+"testSayi": 115,
+"olumSayi": 5,
+"iyilesenSayi": 0,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 2,
+            "kita": "Avrasya",
+            "ulke": "Türkiye",
+            "sehir": "Trabzon"
+ }
+}
+{
+"vakaID": 2000016,
+"vakaSayi": 87,
+"testSayi": 115,
+"olumSayi": 5,
+"iyilesenSayi": 0,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 2,
+            "kita": "Avrasya",
+            "ulke": "Türkiye",
+            "sehir": "Trabzon"
+ }
+}
+{
+"vakaID": 2000017,
+"vakaSayi": 91,
+"testSayi": 135,
+"olumSayi": 2,
+"iyilesenSayi": 0,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 2,
+            "kita": "Avrasya",
+            "ulke": "Türkiye",
+            "sehir": "Edirne"
+ }
+}
+{
+"vakaID": 2000018,
+"vakaSayi": 78,
+"testSayi": 120,
+"olumSayi": 0,
+"iyilesenSayi": 0,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 2,
+            "kita": "Avrasya",
+            "ulke": "Türkiye",
+            "sehir": "Erzurum"
+ }
+}
+{
+"vakaID": 2000019,
+"vakaSayi": 64,
+"testSayi": 83,
+"olumSayi": 0,
+"iyilesenSayi": 0,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 2,
+            "kita": "Avrasya",
+            "ulke": "Türkiye",
+            "sehir": "Yalova"
+ }
+}
+{
+"vakaID": 2000020,
+"vakaSayi": 121,
+"testSayi": 153,
+"olumSayi": 0,
+"iyilesenSayi": 0,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 2,
+            "kita": "Avrasya",
+            "ulke": "Türkiye",
+            "sehir": "Tekirdağ"
+ }
+}
+{
+"vakaID": 2000021,
+"vakaSayi": 87,
+"testSayi": 115,
+"olumSayi": 5,
+"iyilesenSayi": 0,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 2,
+            "kita": "Avrasya",
+            "ulke": "Türkiye",
+            "sehir": "Trabzon"
+ }
+}
+{
+"vakaID": 2000022,
+"vakaSayi": 106,
+"testSayi": 136,
+"olumSayi": 5,
+"iyilesenSayi": 0,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 2,
+            "kita": "Avrasya",
+            "ulke": "Türkiye",
+            "sehir": "Balıkesir"
+ }
+}
+{
+"vakaID": 2000023,
+"vakaSayi": 49,
+"testSayi": 63,
+"olumSayi": 1,
+"iyilesenSayi": 0,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 2,
+            "kita": "Avrasya",
+            "ulke": "Türkiye",
+            "sehir": "Gaziantep"
+ }
+}
+{
+"vakaID": 2000024,
+"vakaSayi": 40,
+"testSayi": 74,
+"olumSayi": 1,
+"iyilesenSayi": 0,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 2,
+            "kita": "Avrasya",
+            "ulke": "Türkiye",
+            "sehir": "Uşak"
+ }
+}
+{
+"vakaID": 2000025,
+"vakaSayi": 28,
+"testSayi": 52,
+"olumSayi": 1,
+"iyilesenSayi": 0,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 2,
+            "kita": "Avrasya",
+            "ulke": "Türkiye",
+            "sehir": "Kahramanmaraş"
+ }
+}
+{
+"vakaID": 4000001,
+"vakaSayi": 967,
+"testSayi": 9000,
+"olumSayi": 58,
+"iyilesenSayi": 98,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 4,
+            "kita": "Kuzey Amerika",
+            "ulke": "Amerika Birleşik Devletleri",
+            "sehir": "New York"
+ }
+}
+{
+"vakaID": 4000002,
+"vakaSayi": 552,
+"testSayi": 4046,
+"olumSayi": 47,
+"iyilesenSayi": 94,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 4,
+            "kita": "Kuzey Amerika",
+            "ulke": "Amerika Birleşik Devletleri",
+            "sehir": "New Jersey"
+ }
+}
+{
+"vakaID": 4000003,
+"vakaSayi": 112,
+"testSayi": 500,
+"olumSayi": 6,
+"iyilesenSayi": 9,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 4,
+            "kita": "Kuzey Amerika",
+            "ulke": "Amerika Birleşik Devletleri",
+            "sehir": "Massachusetts"
+ }
+}
+{
+"vakaID": 4000004,
+"vakaSayi": 504,
+"testSayi": 876,
+"olumSayi": 7,
+"iyilesenSayi": 14,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 4,
+            "kita": "Kuzey Amerika",
+            "ulke": "Amerika Birleşik Devletleri",
+            "sehir": "Florida"
+ }
+}
+{
+"vakaID": 4000005,
+"vakaSayi": 348,
+"testSayi": 3042,
+"olumSayi": 29,
+"iyilesenSayi": 63,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 4,
+            "kita": "Kuzey Amerika",
+            "ulke": "Amerika Birleşik Devletleri",
+            "sehir": "Louisiana"
+ }
+}
+{
+"vakaID": 4000006,
+"vakaSayi": 244,
+"testSayi": 7000,
+"olumSayi": 8,
+"iyilesenSayi": 21,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 4,
+            "kita": "Kuzey Amerika",
+            "ulke": "Amerika Birleşik Devletleri",
+            "sehir": "Texas"
+ }
+}
+{
+"vakaID": 4000007,
+"vakaSayi": 522,
+"testSayi": 11309,
+"olumSayi": 23,
+"iyilesenSayi": 1,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 4,
+            "kita": "Kuzey Amerika",
+            "ulke": "Amerika Birleşik Devletleri",
+            "sehir": "Washington"
+ }
+}
+{
+"vakaID": 4000008,
+"vakaSayi": 1380,
+"testSayi": 7472,
+"olumSayi": 20,
+"iyilesenSayi": 35,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 4,
+            "kita": "Kuzey Amerika",
+            "ulke": "Amerika Birleşik Devletleri",
+            "sehir": "Ohio"
+ }
+}
+{
+"vakaID": 4000009,
+"vakaSayi": 569,
+"testSayi": 9212,
+"olumSayi": 17,
+"iyilesenSayi": 8,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 4,
+            "kita": "Kuzey Amerika",
+            "ulke": "Amerika Birleşik Devletleri",
+            "sehir": "Indiana"
+ }
+}
+{
+"vakaID": 4000010,
+"vakaSayi": 300,
+"testSayi": 12970,
+"olumSayi": 7,
+"iyilesenSayi": 9,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 4,
+            "kita": "Kuzey Amerika",
+            "ulke": "Amerika Birleşik Devletleri",
+            "sehir": "Mississippi"
+ }
+}
+{
+"vakaID": 4000011,
+"vakaSayi": 99,
+"testSayi": 13213,
+"olumSayi": 4,
+"iyilesenSayi": 0,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 4,
+            "kita": "Kuzey Amerika",
+            "ulke": "Amerika Birleşik Devletleri",
+            "sehir": "Nevada"
+ }
+}
+{
+"vakaID": 4000012,
+"vakaSayi": 138,
+"testSayi": 2030,
+"olumSayi": 2,
+"iyilesenSayi": 0,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 4,
+            "kita": "Kuzey Amerika",
+            "ulke": "Amerika Birleşik Devletleri",
+            "sehir": "Utah"
+ }
+}
+{
+"vakaID": 4000013,
+"vakaSayi": 389	,
+"testSayi": 24450,
+"olumSayi": 1,
+"iyilesenSayi": 5,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 4,
+            "kita": "Kuzey Amerika",
+            "ulke": "Amerika Birleşik Devletleri",
+            "sehir": "Iowa"
+ }
+}
+{
+"vakaID": 4000014,
+"vakaSayi": 127,
+"testSayi": 1115,
+"olumSayi": 5,
+"iyilesenSayi": 2,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 4,
+            "kita": "Kuzey Amerika",
+            "ulke": "Amerika Birleşik Devletleri",
+            "sehir": "District Of Columbia"
+ }
+}
+{
+"vakaID": 4000015,
+"vakaSayi": 120,
+"testSayi": 915,
+"olumSayi": 5,
+"iyilesenSayi": 8,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 4,
+            "kita": "Kuzey Amerika",
+            "ulke": "Amerika Birleşik Devletleri",
+            "sehir": "Kentucky"
+ }
+}
+{
+"vakaID": 4000016,
+"vakaSayi": 27,
+"testSayi": 115,
+"olumSayi": 1,
+"iyilesenSayi": 0,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 4,
+            "kita": "Kuzey Amerika",
+            "ulke": "Amerika Birleşik Devletleri",
+            "sehir": "Oklahoma"
+ }
+}
+{
+"vakaID": 4000017,
+"vakaSayi": 143,
+"testSayi": 652,
+"olumSayi": 13,
+"iyilesenSayi": 7,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 4,
+            "kita": "Kuzey Amerika",
+            "ulke": "Amerika Birleşik Devletleri",
+            "sehir": "Minnesota"
+ }
+}
+{
+"vakaID": 4000018,
+"vakaSayi": 38,
+"testSayi": 420,
+"olumSayi": 0,
+"iyilesenSayi": 9,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 4,
+            "kita": "Kuzey Amerika",
+            "ulke": "Amerika Birleşik Devletleri",
+            "sehir": "Arkansas"
+ }
+}
+{
+"vakaID": 4000019,
+"vakaSayi": 20,
+"testSayi": 89,
+"olumSayi": 2,
+"iyilesenSayi": 0,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 4,
+            "kita": "Kuzey Amerika",
+            "ulke": "Amerika Birleşik Devletleri",
+            "sehir": "Maine"
+ }
+}
+{
+"vakaID": 4000020,
+"vakaSayi": 95,
+"testSayi": 542,
+"olumSayi": 2,
+"iyilesenSayi": 5,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 4,
+            "kita": "Kuzey Amerika",
+            "ulke": "Amerika Birleşik Devletleri",
+            "sehir": "Puerto Rico"
+ }
+}
+{
+"vakaID": 4000021,
+"vakaSayi": 63,
+"testSayi": 250,
+"olumSayi": 4,
+"iyilesenSayi": 1,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 4,
+            "kita": "Kuzey Amerika",
+            "ulke": "Amerika Birleşik Devletleri",
+            "sehir": "Hawaii"
+ }
+}
+{
+"vakaID": 4000022,
+"vakaSayi": 79,
+"testSayi": 190,
+"olumSayi": 2,
+"iyilesenSayi": 2,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 4,
+            "kita": "Kuzey Amerika",
+            "ulke": "Amerika Birleşik Devletleri",
+            "sehir": "Wyoming"
+ }
+}
+{
+"vakaID": 4000023,
+"vakaSayi": 49,
+"testSayi": 63,
+"olumSayi": 1,
+"iyilesenSayi": 0,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 4,
+            "kita": "Kuzey Amerika",
+            "ulke": "Amerika Birleşik Devletleri",
+            "sehir": "Nebraska"
+ }
+}
+{
+"vakaID": 4000024,
+"vakaSayi": 120,
+"testSayi": 724,
+"olumSayi": 9,
+"iyilesenSayi": 4,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 4,
+            "kita": "Kuzey Amerika",
+            "ulke": "Amerika Birleşik Devletleri",
+            "sehir": "Oregon"
+ }
+}
+{
+"vakaID": 4000025,
+"vakaSayi": 38,
+"testSayi": 152,
+"olumSayi": 1,
+"iyilesenSayi": 5,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 4,
+            "kita": "Kuzey Amerika",
+            "ulke": "Amerika Birleşik Devletleri",
+            "sehir": "West Virginia"
+ }
+}
+{
+"vakaID": 3000001,
+"vakaSayi": 6832,
+"testSayi": 7429,
+"olumSayi": 161,
+"iyilesenSayi": 5193,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 3,
+            "kita": "Asya",
+            "ulke": "Güney Kore",
+            "sehir": "Daegu"
+ }
+}
+{
+"vakaID": 3000002,
+"vakaSayi": 1359,
+"testSayi": 1527,
+"olumSayi": 51,
+"iyilesenSayi": 994,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 3,
+            "kita": "Asya",
+            "ulke": "Güney Kore",
+            "sehir": "Kuzey Gyeongsang"
+ }
+}
+{
+"vakaID": 3000003,
+"vakaSayi": 654,
+"testSayi": 798,
+"olumSayi": 14,
+"iyilesenSayi": 269,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 3,
+            "kita": "Asya",
+            "ulke": "Güney Kore",
+            "sehir": "Gyeonggi"
+ }
+}
+{
+"vakaID": 3000004,
+"vakaSayi": 624,
+"testSayi": 865,
+"olumSayi": 2,
+"iyilesenSayi": 185,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 3,
+            "kita": "Asya",
+            "ulke": "Güney Kore",
+            "sehir": "Seul"
+ }
+}
+{
+"vakaID": 3000005,
+"vakaSayi": 141,
+"testSayi": 224,
+"olumSayi": 0,
+"iyilesenSayi": 105,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 3,
+            "kita": "Asya",
+            "ulke": "Güney Kore",
+            "sehir": "Güney Chungcheong"
+ }
+}
+{
+"vakaID": 3000006,
+"vakaSayi": 130,
+"testSayi": 176,
+"olumSayi": 3,
+"iyilesenSayi": 98,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 3,
+            "kita": "Asya",
+            "ulke": "Güney Kore",
+            "sehir": "Busan"
+ }
+}
+{
+"vakaID": 3000007,
+"vakaSayi": 116,
+"testSayi": 158,
+"olumSayi": 0,
+"iyilesenSayi": 82,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 3,
+            "kita": "Asya",
+            "ulke": "Güney Kore",
+            "sehir": "Güney Gyeongsang"
+ }
+}
+{
+"vakaID": 3000008,
+"vakaSayi": 91,
+"testSayi": 142,
+"olumSayi": 0,
+"iyilesenSayi": 34,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 3,
+            "kita": "Asya",
+            "ulke": "Güney Kore",
+            "sehir": "İncheon"
+ }
+}
+{
+"vakaID": 3000009,
+"vakaSayi": 53,
+"testSayi": 113,
+"olumSayi": 2,
+"iyilesenSayi": 26,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 3,
+            "kita": "Asya",
+            "ulke": "Güney Kore",
+            "sehir": "Kangvon"
+ }
+}
+{
+"vakaID": 3000010,
+"vakaSayi": 46,
+"testSayi": 75,
+"olumSayi": 0,
+"iyilesenSayi": 20,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 3,
+            "kita": "Asya",
+            "ulke": "Güney Kore",
+            "sehir": "Sejong"
+ }
+}
+{
+"vakaID": 5000001,
+"vakaSayi": 1530,
+"testSayi": 2003,
+"olumSayi": 18,
+"iyilesenSayi": 18,
+"vakaTarih": "20.04.2020",
+"bolge": {
+            "bolgeID": 5,
+            "kita": "Asya",
+            "ulke": "Çin",
+            "sehir": "Hubei"
+ }
+}
+{
+"vakaID": 5000002,
+"vakaSayi": 5852,
+"testSayi": 6346,
+"olumSayi": 237,
+"iyilesenSayi": 103,
+"vakaTarih": "20.04.2020",
+"bolge": {
+            "bolgeID": 5,
+            "kita": "Asya",
+            "ulke": "Çin",
+            "sehir": "Guangdong"
+ }
+}
+{
+"vakaID": 5000003,
+"vakaSayi": 1023,
+"testSayi": 1409,
+"olumSayi": 7,
+"iyilesenSayi": 149,
+"vakaTarih": "20.04.2020",
+"bolge": {
+            "bolgeID": 5,
+            "kita": "Asya",
+            "ulke": "Çin",
+            "sehir": "Jiangxi"
+ }
+}
+{
+"vakaID": 5000004,
+"vakaSayi": 5184,
+"testSayi": 6576,
+"olumSayi": 57,
+"iyilesenSayi": 3914,
+"vakaTarih": "20.04.2020",
+"bolge": {
+            "bolgeID": 5,
+            "kita": "Asya",
+            "ulke": "Çin",
+            "sehir": "Pekin"
+ }
+}
+{
+"vakaID": 5000005,
+"vakaSayi": 4310,
+"testSayi": 5382,
+"olumSayi": 545,
+"iyilesenSayi": 3447,
+"vakaTarih": "20.04.2020",
+"bolge": {
+            "bolgeID": 5,
+            "kita": "Asya",
+            "ulke": "Çin",
+            "sehir": "Hebei"
+ }
+}
+{
+"vakaID": 5000006,
+"vakaSayi": 3638,
+"testSayi": 4156,
+"olumSayi": 567,
+"iyilesenSayi": 3784,
+"vakaTarih": "20.04.2020",
+"bolge": {
+            "bolgeID": 5,
+            "kita": "Asya",
+            "ulke": "Çin",
+            "sehir": "Yünnan"
+ }
+}
+{
+"vakaID": 5000007,
+"vakaSayi": 2107,
+"testSayi": 2302,
+"olumSayi": 15,
+"iyilesenSayi": 1203,
+"vakaTarih": "20.04.2020",
+"bolge": {
+            "bolgeID": 5,
+            "kita": "Asya",
+            "ulke": "Çin",
+            "sehir": "Fujian"
+ }
+}
+{
+"vakaID": 5000008,
+"vakaSayi": 1927,
+"testSayi": 2208,
+"olumSayi": 353,
+"iyilesenSayi": 1462,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 5,
+            "kita": "Asya",
+            "ulke": "Çin",
+            "sehir": "Guizhou"
+ }
+}
+{
+"vakaID": 5000009,
+"vakaSayi": 1335,
+"testSayi": 1635,
+"olumSayi": 23,
+"iyilesenSayi": 1200,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 5,
+            "kita": "Asya",
+            "ulke": "Çin",
+            "sehir": "Tientsin"
+ }
+}
+{
+"vakaID": 5000010,
+"vakaSayi": 1212,
+"testSayi": 1326,
+"olumSayi": 133,
+"iyilesenSayi": 803,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 5,
+            "kita": "Asya",
+            "ulke": "Çin",
+            "sehir": "Liaoning"
+ }
+}
+{
+"vakaID": 5000011,
+"vakaSayi": 1397,
+"testSayi": 2150,
+"olumSayi": 5,
+"iyilesenSayi": 875,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 5,
+            "kita": "Asya",
+            "ulke": "Çin",
+            "sehir": "Kansu"
+ }
+}
+{
+"vakaID": 5000012,
+"vakaSayi": 1022,
+"testSayi": 2368,
+"olumSayi": 24,
+"iyilesenSayi": 1023,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 5,
+            "kita": "Asya",
+            "ulke": "Çin",
+            "sehir": "Jilin"
+ }
+}
+{
+"vakaID": 5000013,
+"vakaSayi": 1920,
+"testSayi": 2946,
+"olumSayi": 52,
+"iyilesenSayi": 1302,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 5,
+            "kita": "Asya",
+            "ulke": "Çin",
+            "sehir": "Çongçing"
+ }
+}
+{
+"vakaID": 5000014,
+"vakaSayi": 3848,
+"testSayi": 4115,
+"olumSayi": 45,
+"iyilesenSayi": 2467,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 5,
+            "kita": "Asya",
+            "ulke": "Çin",
+            "sehir": "Anhui"
+ }
+}
+{
+"vakaID": 5000015,
+"vakaSayi": 2387,
+"testSayi": 3115,
+"olumSayi": 54,
+"iyilesenSayi": 1670,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 5,
+            "kita": "Asya",
+            "ulke": "Çin",
+            "sehir": "Şantung"
+ }
+}
+{
+"vakaID": 5000016,
+"vakaSayi": 3487,
+"testSayi": 5415,
+"olumSayi": 55,
+"iyilesenSayi": 2524,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 5,
+            "kita": "Asya",
+            "ulke": "Çin",
+            "sehir": "Şanghay"
+ }
+}
+{
+"vakaID": 5000017,
+"vakaSayi": 2433,
+"testSayi": 3435,
+"olumSayi": 23,
+"iyilesenSayi": 1746,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 5,
+            "kita": "Asya",
+            "ulke": "Çin",
+            "sehir": "Şensi"
+ }
+}
+{
+"vakaID": 5000018,
+"vakaSayi": 3748,
+"testSayi": 4020,
+"olumSayi": 71,
+"iyilesenSayi": 2464,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 5,
+            "kita": "Asya",
+            "ulke": "Çin",
+            "sehir": "Guangksi Zhuang Özerk Bölgesi"
+ }
+}
+{
+"vakaID": 5000019,
+"vakaSayi": 1604,
+"testSayi": 1783,
+"olumSayi": 102,
+"iyilesenSayi": 1374,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 5,
+            "kita": "Asya",
+            "ulke": "Çin",
+            "sehir": "İç Moğolistan"
+ }
+}
+{
+"vakaID": 5000020,
+"vakaSayi": 1221,
+"testSayi": 1523,
+"olumSayi": 102,
+"iyilesenSayi": 1101,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 5,
+            "kita": "Asya",
+            "ulke": "Çin",
+            "sehir": "Sincan Uygur Özerk Bölgesi"
+ }
+}
+{
+"vakaID": 5000021,
+"vakaSayi": 1827,
+"testSayi": 2115,
+"olumSayi": 52,
+"iyilesenSayi": 1503,
+"vakaTarih": "19.04.2020",
+"bolge": {
+            "bolgeID": 5,
+            "kita": "Asya",
+            "ulke": "Çin",
+            "sehir": "Ningksia Huy Özerk Bölgesi"
+ }
+}
+{
+"vakaID": 5000022,
+"vakaSayi": 1206,
+"testSayi": 1336,
+"olumSayi": 15,
+"iyilesenSayi": 1034,
+"vakaTarih": "14.04.2020",
+"bolge": {
+            "bolgeID": 5,
+            "kita": "Asya",
+            "ulke": "Çin",
+            "sehir": "Heilongjiang"
+ }
+}
+{
+"vakaID": 5000023,
+"vakaSayi": 1349,
+"testSayi": 2063,
+"olumSayi": 51,
+"iyilesenSayi": 1200,
+"vakaTarih": "18.04.2020",
+"bolge": {
+            "bolgeID": 5,
+            "kita": "Asya",
+            "ulke": "Çin",
+            "sehir": "Kansu"
+ }
+}
+{
+"vakaID": 5000024,
+"vakaSayi": 1430,
+"testSayi": 2374,
+"olumSayi": 192,
+"iyilesenSayi": 1402,
+"vakaTarih": "18.04.2020",
+"bolge": {
+            "bolgeID": 5,
+            "kita": "Asya",
+            "ulke": "Çin",
+            "sehir": "Liaoning"
+ }
+}
+{
+"vakaID": 5000025,
+"vakaSayi": 2218,
+"testSayi": 3452,
+"olumSayi": 168,
+"iyilesenSayi": 1632,
+"vakaTarih": "18.04.2020",
+"bolge": {
+            "bolgeID": 5,
+            "kita": "Asya",
+            "ulke": "Çin",
+            "sehir": "Henan"
+ }
+}
